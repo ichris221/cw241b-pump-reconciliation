@@ -1,3 +1,26 @@
+Dataset Coverage
+
+This Creative Commons Zero v1.0 Universal license applies to the following files in this repository:
+
+1. CW241B_asset_register.xlsx
+2. CW241B_nameplate_and_coupling_survey.csv
+3. CW241B_shift_operating_log.csv
+4. CW241B_vibration_route_readings.csv
+5. CW241B_laser_alignment_report.pdf
+6. CW241B_maintenance_work_orders.docx
+7. CW241B_flowmeter_calibration_and_trend.xlsx
+8. CW241B_loto_noise_and_access_checks.docx
+9. CW241B_spare_parts_and_gasket_quotes.xlsx
+10. CW241B_legacy_oem_curve_scan.pdf
+
+All files listed above are fictional synthetic project materials created for a mechanical engineering 
+technician reconciliation task. Any asset tags, work order numbers, readings, inspection notes, company 
+names, personnel references, dates, and engineering records contained in these files are invented for 
+training and evaluation purposes and do not describe a real facility, real equipment package, real 
+maintenance event, or real individual.
+
+The files are released under Creative Commons Zero v1.0 Universal.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
