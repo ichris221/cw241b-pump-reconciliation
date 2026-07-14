@@ -1,0 +1,16 @@
+survey_id,survey_date,inspector,pump_tag_on_frame,motor_tag_on_nameplate,component,measured_item,observed_value,units,method,confidence_code,accepted_for_reconciliation,photo_ref,note
+NCS-001,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,pump casing,stamped pump tag,CW-P-241B,text,visual trace,A,YES,IMG-241B-001,Frame stamp matches skid tag.
+NCS-002,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,pump casing,legacy casting label,CW-P-241,text,visual trace,B,NO,IMG-241B-002,Casting label is old family casting and lacks suffix B.
+NCS-003,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,motor nameplate,rated speed,1785,rpm,nameplate,A,YES,IMG-241B-003,Motor nameplate rating at 60 Hz.
+NCS-004,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,motor shaft,observed running speed,1771,rpm,contact tachometer,B,YES,TACH-241B-01,Measured during steady state at 59.6 Hz.
+NCS-005,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,impeller,field trim diameter,288.5,mm,borescope scale,B,YES,IMG-241B-004,Borescope indicated trim between 288 and 289 mm.
+NCS-006,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,seal flush,field flush plan,Plan 11,plan,line tracing,A,YES,IMG-241B-005,Internal recirculation line observed from discharge tapping to seal gland.
+NCS-007,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,seal flush,old register plate,Plan 32,plan,data plate,C,NO,IMG-241B-006,Plate remained from prior external clean-water flush arrangement.
+NCS-008,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,coupling spacer,installed spacer length,112.0,mm,caliper,A,YES,IMG-241B-007,Measured after guard removal.
+NCS-009,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,coupling spacer,spare spacer tag,108,mm,box label,C,NO,IMG-241B-008,"Spare shelf item, not installed spacer."
+NCS-010,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,soft foot,motor foot A shim residual,0.02,mm,feeler gauge,A,YES,SF-241B-A,Below 0.05 mm acceptance limit.
+NCS-011,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,soft foot,motor foot B shim residual,0.03,mm,feeler gauge,A,YES,SF-241B-B,Below 0.05 mm acceptance limit.
+NCS-012,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,soft foot,motor foot C shim residual,0.01,mm,feeler gauge,A,YES,SF-241B-C,Below 0.05 mm acceptance limit.
+NCS-013,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,soft foot,motor foot D shim residual,0.02,mm,feeler gauge,A,YES,SF-241B-D,Below 0.05 mm acceptance limit.
+NCS-014,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,guard clearance,minimum guard clearance,8.5,mm,steel rule,B,YES,IMG-241B-009,Clearance exceeds local 6 mm minimum.
+NCS-015,2026-06-17,M. Adebayo,CW-P-241B,MTR-CW-241B,baseplate,anchor nut status,torque paint intact,text,visual trace,B,YES,IMG-241B-010,Paint marks not disturbed after alignment.

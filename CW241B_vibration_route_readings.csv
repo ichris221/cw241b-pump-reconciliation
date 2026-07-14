@@ -1,0 +1,33 @@
+reading_id,reading_date,machine_tag,route_point,axis,velocity_mm_s_rms,acceleration_g,envelope_g,bearing_temp_c,rpm_at_reading,route_status_label,analyst_call,instrument,note
+VR-001,2026-06-03,CW-P-241B,PUMP_DE,H,5.1,0.35,0.165,63.1,1770,GREEN,Monitor,VIBX-12,1x running speed dominant
+VR-002,2026-06-03,CW-P-241B,PUMP_DE,V,7.4,0.427,0.203,65.9,1770,GREEN,Monitor,VIBX-12,1x running speed dominant
+VR-003,2026-06-03,CW-P-241B,PUMP_NDE,H,3.6,0.3,0.14,61.3,1770,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-004,2026-06-03,CW-P-241B,PUMP_NDE,V,4.5,0.33,0.155,62.4,1770,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-005,2026-06-03,CW-P-241B,MOTOR_DE,H,4.4,0.327,0.153,62.3,1770,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-006,2026-06-03,CW-P-241B,MOTOR_DE,V,5.3,0.357,0.168,63.4,1770,REVIEW,Monitor,VIBX-12,1x running speed dominant
+VR-007,2026-06-03,CW-P-241B,MOTOR_NDE,H,3.1,0.283,0.132,60.7,1770,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-008,2026-06-03,CW-P-241B,MOTOR_NDE,V,4.0,0.313,0.147,61.8,1770,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-009,2026-06-10,CW-P-241B,PUMP_DE,H,4.75,0.338,0.159,62.7,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-010,2026-06-10,CW-P-241B,PUMP_DE,V,5.65,0.368,0.174,63.8,1771,REVIEW,Monitor,VIBX-12,1x running speed dominant
+VR-011,2026-06-10,CW-P-241B,PUMP_NDE,H,3.25,0.288,0.134,60.9,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-012,2026-06-10,CW-P-241B,PUMP_NDE,V,4.15,0.318,0.149,62.0,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-013,2026-06-10,CW-P-241B,MOTOR_DE,H,4.05,0.315,0.148,61.9,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-014,2026-06-10,CW-P-241B,MOTOR_DE,V,4.95,0.345,0.163,62.9,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-015,2026-06-10,CW-P-241B,MOTOR_NDE,H,2.75,0.272,0.126,60.3,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-016,2026-06-10,CW-P-241B,MOTOR_NDE,V,3.65,0.302,0.141,61.4,1771,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-017,2026-06-18,CW-P-241B,PUMP_DE,H,4.4,0.327,0.153,62.3,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-018,2026-06-18,CW-P-241B,PUMP_DE,V,5.8,0.373,0.177,64.0,1772,REVIEW,Monitor,VIBX-12,1x running speed dominant
+VR-019,2026-06-18,CW-P-241B,PUMP_NDE,H,2.9,0.277,0.128,60.5,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-020,2026-06-18,CW-P-241B,PUMP_NDE,V,3.8,0.307,0.143,61.6,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-021,2026-06-18,CW-P-241B,MOTOR_DE,H,3.7,0.303,0.142,61.4,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-022,2026-06-18,CW-P-241B,MOTOR_DE,V,4.6,0.333,0.157,62.5,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-023,2026-06-18,CW-P-241B,MOTOR_NDE,H,2.4,0.26,0.12,59.9,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-024,2026-06-18,CW-P-241B,MOTOR_NDE,V,3.3,0.29,0.135,61.0,1772,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-025,2026-06-25,CW-P-241B,PUMP_DE,H,4.05,0.315,0.147,61.9,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-026,2026-06-25,CW-P-241B,PUMP_DE,V,5.4,0.36,0.17,63.5,1773,REVIEW,Monitor,VIBX-12,1x running speed dominant
+VR-027,2026-06-25,CW-P-241B,PUMP_NDE,H,2.55,0.265,0.122,60.1,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-028,2026-06-25,CW-P-241B,PUMP_NDE,V,3.45,0.295,0.138,61.1,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-029,2026-06-25,CW-P-241B,MOTOR_DE,H,3.35,0.292,0.136,61.0,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-030,2026-06-25,CW-P-241B,MOTOR_DE,V,4.25,0.322,0.151,62.1,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-031,2026-06-25,CW-P-241B,MOTOR_NDE,H,2.05,0.248,0.114,59.5,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
+VR-032,2026-06-25,CW-P-241B,MOTOR_NDE,V,2.95,0.278,0.129,60.5,1773,NORMAL,Accept,VIBX-12,No discrete bearing defect frequency
